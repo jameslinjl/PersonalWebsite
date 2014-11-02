@@ -56,3 +56,7 @@ a {
     text-decoration: underline;
     color: black;
 }
+
+.centered{
+    text-align: center;
+}
